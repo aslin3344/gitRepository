@@ -68,6 +68,7 @@ typedef struct _pio_stored_states
     const PioActionMessage      *double_tap; 
 } PioStoredStates;
 
+typde defffer
 typedef struct _pio_state
 {
 TaskData        task;
